@@ -28,16 +28,20 @@
       "directions": "Adkomst sommer: Alternativ 1: En fin tur oppover lia nord for byen. Flott utsikt, og mange benker å sitte på for å kvile seg. Man kan starte fra Romsdalsmuseet og Holmarka eller parkere ved Grua/Hatlelitunellen. Herifra er det 1,2 km oppover til Storlihytta på gruset tursti. De første metrene går på asfaltert gang og sykkelsti opp til en åpen plass. Her kan man ta til høyre opp gruset sti/lysløype mot Nonsmyra og Skihytta, eller som for denne turen følge gruset vei rett nordover under stort treskilt merket med 'Storlia Varden'. Ingen vanskelig veivalg, bare følg veien oppover. Noe bratt av og til, men fin, god sti. Mulig å ta en snarvei opp lia når du har passert et bord hvor det står Bjarne-benken. Derfra ser du flaggstanga på hytta. Eller du følger grusveien rundt åsen. Alternativ 2: Kjør Vardeveien retning Varden. Parker på en liten parkeringsplass ved skilt 'Storlihytta'. Fra her er det kun 500 meter nedover på lettgått gruset tursti. NB! Her er det kun plass til 2-3 biler. Adkomst vinter: Vinterstid er det kun alternativ 1, da Vardeveien er stengt. Eller man kan komme på ski fra Vardeveien.",
       "stops": [
         {
-          "Sollivegen/Bekkevollvegen": 708
+          "stop": "Sollivegen/Bekkevollvegen",
+          "distance": 708
         },
         {
-          "Peter Solemdals veg": 708
+          "stop": "Peter Solemdals veg",
+          "distance": 708
         },
         {
-          "Aukravegen": 881
+          "stop": "Aukravegen",
+          "distance": 881
         },
         {
-          "Bekkevoll ungdomsskole": 898
+          "stop": "Bekkevoll ungdomsskole",
+          "distance": 898
         }
       ]
     },
