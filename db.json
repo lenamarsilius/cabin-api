@@ -1,0 +1,101 @@
+{
+  "cabins": [
+    {
+      "id": 1,
+      "name": "Gamle Storlihytta",
+      "DDLat": 62.74796,
+      "DDLon": 7.14342,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/e8471mkvq2ep23yvmxkx",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/shb34quiphajpsomlstb",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/g3gjd4htdymbtvhjf35q",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/vdi5gt3tofnph8zbrbny",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/eihmxz0van3tibp9h0v6"
+      ],
+      "beds": 7,
+      "fylke": "Møre og Romsdal",
+      "betjening": "Ubetjent",
+      "altitude": 270,
+      "facilities": ["220v", "Booking", "Strømovn", "Mobildekning", "Steikeovn", "Vedovn"],
+      "description": "Storlihytta ble oppført allerede i 1893 av Grand Hotell i Molde, som et tilbud til deres gjester. Keiser Wilhelm var på besøk på hytta og hadde middagsselskap for sine 40 gjester i 1902. Høsten 2015 overtok DNT Romsdal hytta av Selskabet for Molde Byes Vel. Etter omfattende restaureringsarbeid er hytta nå ferdig restaurert i tett samarbeid med Riksantikvaren og fylkeskonservatoren i Møre og Romsdal.",
+      "booking": "https://reservations.visbook.com/8038?lang=no",
+      "directions": "Adkomst sommer: Alternativ 1: En fin tur oppover lia nord for byen. Flott utsikt, og mange benker å sitte på for å kvile seg. Man kan starte fra Romsdalsmuseet og Holmarka eller parkere ved Grua/Hatlelitunellen. Herifra er det 1,2 km oppover til Storlihytta på gruset tursti. De første metrene går på asfaltert gang og sykkelsti opp til en åpen plass. Her kan man ta til høyre opp gruset sti/lysløype mot Nonsmyra og Skihytta, eller som for denne turen følge gruset vei rett nordover under stort treskilt merket med 'Storlia Varden'. Ingen vanskelig veivalg, bare følg veien oppover. Noe bratt av og til, men fin, god sti. Mulig å ta en snarvei opp lia når du har passert et bord hvor det står Bjarne-benken. Derfra ser du flaggstanga på hytta. Eller du følger grusveien rundt åsen. Alternativ 2: Kjør Vardeveien retning Varden. Parker på en liten parkeringsplass ved skilt 'Storlihytta'. Fra her er det kun 500 meter nedover på lettgått gruset tursti. NB! Her er det kun plass til 2-3 biler. Adkomst vinter: Vinterstid er det kun alternativ 1, da Vardeveien er stengt. Eller man kan komme på ski fra Vardeveien.",
+      "stops": [
+        {
+          "Sollivegen/Bekkevollvegen": 708
+        },
+        {
+          "Peter Solemdals veg": 708
+        },
+        {
+          "Aukravegen": 881
+        },
+        {
+          "Bekkevoll ungdomsskole": 898
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kongensdamhytta",
+      "DDLat": 59.68036,
+      "DDLon": 9.53202,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/cmhymtpn0ihgctdnn9yw",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ijrtfvuglbzoax8bugju",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/sgkrcx3d9qpsavhaotto",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/zmnygergsskqxas8dqsy",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/m8fjyxjbbumxjkbiulhf",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/mqpxtu9807nyugpt2sxs",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ddszbvds9dqykbxp7r4r",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qhjgoiaircq7xmrkogqn"
+        ],
+      "beds": 2,
+      "fylke": "Viken",
+      "betjening": "Ubetjent",
+      "altitude": 725,
+      "facilities": null,
+      "description": "Kongsdamhytta ligger i nordenden av vannet Kongsdammen i Kongsberg kommune. Den ble bygd før 1862 og fungerte som damvokterbolig hvor formannen i arbeidslaget bodde, mens de øvrige i laget bodde i hytta nedenfor. Hytta er i dag fredet. Den ligger fint til på en odde ved demningen og er et populært turmål. Kongsdammen er en av mange dammer som ble anlagt på 1600- og 1700-tallet for å forsyne Kongsberg Sølvverk med driftsvann. Dette er et av flere gode fiskevann i nærområdet. De senere årene har hytta stått åpen for allmennheten. Høsten 2018 ble det fra Knutehytta anlagt ny anleggsveg fram til hytta i forbindelse med damarbeid. Adkomsten er med dette blitt enklere og passer for alle. Halvveis passerer du en gapahuk som også er verdt et besøk. Hytta ble restaurert i 2021 og står nå ferdig og klar for å ta i mot turfolket.",
+      "booking": null,
+      "directions": "Adkomst sommer: Ta E134 fra Kongsberg til Saggrenda. Der tar du inn på Bergmannsveien og følger denne 9 kilometer fram til Knutehytta.Fra parkeringsplassen ved Knutehytta kan du gå eller sykle omtrent 2 km på anleggsvei frem til hytta. På vinteren er det preparert skiløype på denne vegen.Ønsker du er alternativ tur kan du gå stien rundt Kongensdam. Turen til Kongensdamhytta blir da 3 km.Det er også mulig å ta turen fra Funkelia. Følg Korsveien i ca. 13 km eller ta skiheisen til toppen og gå på ski i ca. 7 km. Her kan du også velge den legendariske Kemnerløypa fra Kongensdam tilbake til Funkelia, ca. 8 km. Fra parkering ved avkjøringen på Knuteveien: stier eller oppkjørte skiløyper ved Haus Sachsen. Turretur er 8-10 km avhengig av hvilken trase du velger.",
+      "stops": null
+    },
+    {
+      "id": 3,
+      "name": "Austerdalshytta",
+      "DDLat": 61.54403,
+      "DDLon": 6.97167,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/djyu3rpokykcweprggpn",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/v8o0y19fbmo3xmvncgnh"
+        ],
+      "beds": 14,
+      "fylke": "Vestland",
+      "betjening": "Ubetjent",
+      "altitude": 292,
+      "facilities": ["Booking", "Tørkerom", "Strømovn", "Steikeovn", "WC", "Vedovn"],
+      "description": "Austerdalshytta er ein del av det betente anlegget på Tungestølen om sommaren. Men på hausten, vinteren og våren er hytta ein fullverdig ubetent hytte- som ventar på deg! Hytta er heilt ny, og sto ferdig i juli i år (2021), påfølgende vinter og vår er fyrste gong hytta er i bruk som ubetent hytte! Hytta er installert med det du treng for ei overnatting, men hugs å ta med mat og lakenpose! Det er 3 soverom med 12 sengeplassar i hytta, tørkerom og ei stor stove/kjøkken med store vindauge, så ein kan nyte synet av naturen.",
+      "booking": "https://www.subedsaas.com/schedule/BookingST/Austerdalshytta",
+      "directions": "Adkomst sommer: Køyr til Hafslo. Derfrå innover mot Veitastrond. Køyr til endes forbi ein bom (hugs å betala, Vipps 70 kr). Frå bommen er det 5 km inn til hytta. Parkering er nede på flaten ved elva og derifra vandrer du ca 300 meter på fin vei opp til hytta. Det er parkering for rørslehemma ved hytta. Adkomst vinter: Når det er snø, blir det køyrt opp skiløyper frå Veitastrond og inn til Tungestølen. Skituren er omlag 5 km i lett kupert terreng.",
+      "stops": null
+    }
+  ]
+}
